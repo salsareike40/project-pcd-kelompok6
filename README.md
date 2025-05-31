@@ -1,5 +1,5 @@
 # DETEKSI COVID-19 BERDASARKAN ANALISIS CITRA X-RAY PARU-PARU
 # Nama Anggota
-Audina Jelita : F1D02310039
-Salsa Reike Maharani : F1D02310136
-M. Bayu Aji : F1D02310144
+1. Audina Jelita : F1D02310039
+2. Salsa Reike Maharani : F1D02310136
+3. M. Bayu Aji : F1D02310144
