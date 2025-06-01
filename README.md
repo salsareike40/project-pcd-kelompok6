@@ -1,1 +1,5 @@
-# project-pcd-kelompok6
+# DETEKSI COVID-19 BERDASARKAN ANALISIS CITRA X-RAY PARU-PARU
+# Nama Anggota
+1. Audina Jelita : F1D02310039
+2. Salsa Reike Maharani : F1D02310136
+3. M. Bayu Aji : F1D02310144
